@@ -1,7 +1,8 @@
 package com.liruya.common;
 
-import android.support.annotation.IntDef;
 import android.util.Log;
+
+import androidx.annotation.IntDef;
 
 public class LogUtil
 {

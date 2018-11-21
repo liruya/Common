@@ -1,8 +1,9 @@
 package com.liruya.common;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.util.TypedValue;
+
+import androidx.annotation.NonNull;
 
 public class SizeUtil
 {
